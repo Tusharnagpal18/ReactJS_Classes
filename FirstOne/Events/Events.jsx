@@ -4,6 +4,7 @@ import MyButton from './MyButton';
 const Events = () => {
     const displayMsg=(msg)=>{
         // alert("Button has been clicked")
+        
         alert(msg);
     };
   return (
