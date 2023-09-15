@@ -1,6 +1,6 @@
 import React, { useState, useSyncExternalStore } from "react";
 import "./style.css";
-
+// this is a component
 const Mytodo = () => {
   const [activity, setActivity] = useState("");
   const [listData, setListData] = useState([]);
