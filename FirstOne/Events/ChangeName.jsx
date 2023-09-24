@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import MyButton2 from './MyButton2';
 
+
 const ChangeName = () => {
     // let name1='ABC';
     const[name,setName]=useState('ABC');
