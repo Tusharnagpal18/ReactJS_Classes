@@ -1,6 +1,5 @@
 import React from 'react'
 import MyButton from './MyButton';
-
 const Events = () => {
     const displayMsg=(msg)=>{
         // alert("Button has been clicked")
