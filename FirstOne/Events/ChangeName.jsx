@@ -1,7 +1,5 @@
 import React, { useState } from 'react'
 import MyButton2 from './MyButton2';
-
-
 const ChangeName = () => {
     // let name1='ABC';
     // This is use state hook and here it is setting a default value of ABC in variable 'name'
